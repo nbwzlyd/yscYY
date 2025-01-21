@@ -1,19 +1,7 @@
 {
-    "appVersion":"2.0.43",
-    "forceUpdate":false,
-    "jumpLink":"https://ktt.pinduoduo.com/t/bx41lbGegU",
-    "title": "安卓哥的快团团",
-    "updateMessage":" 公众号 派大星开发，抓紧关注不迷路。 我的快团团上线了，欢迎大家支持\n
-    1.修复webdav恢复备份无效问题
-    2.适配安卓8选集屏山问题
-    3.适配action
-    4.增加google dns解析
-    5.修复刷新播放会从头播放的问题
-    6.优化本地包选择
-    7.修复AI去广可能导致的播放失败问题
-    8.移除随机彩蛋弹窗，移除所有广告限制，除了banner，清爽无异味
-    9.移除本地视频批量清理功能
-    10.修复本地视频播放失败问题
-    11.跑路了
-    \n(流量不够用?点击流量卡看看，零差评的好电话卡)"
+  "appVersion": "2.0.52",
+  "forceUpdate": false,
+  "jumpLink": "",
+  "title": "",
+  "updateMessage": "2.0.52版本已经更新，尽快升级，否则可能老版本不能使用， 新app将采用新包名， 具体更新日志可去派大星开发公众号查看 "
 }
