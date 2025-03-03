@@ -1,7 +1,7 @@
 {
   "appVersion": "3.0.6.1",
   "forceUpdate": false,
-  "jumpLink": "https://note.youdao.com/web/#/file/recent/markdown/WEBec77ceb49c456b2d9046ea7505a10b12/",
+  "jumpLink": "https://note.youdao.com/s/OhChiwyj",
   "title": "更新日志",
   "updateMessage": "1.修复播放页闪退问题 \n2.增加播放失败自动换线功能\n3.修复部分线路播放进度不保存问题\n4.webdav备份还原优化\n5.视频下载优化\n6.m3u直播线路优化以及多项bug修复，具体可点击查看流量卡按钮查看版本更新日志，及时下载"
 }
