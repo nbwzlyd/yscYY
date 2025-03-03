@@ -1,7 +1,8 @@
 {
-  "appVersion": "2.0.53",
+  "appVersion": "3.0.6.1,
   "forceUpdate": false,
-  "jumpLink": "",
-  "title": "",
-  "updateMessage": "2.0.52版本已经更新，尽快升级，否则可能老版本不能使用， 新app将采用新包名，尽快备份升级。 具体更新日志可去派大星开发公众号查看 "
+  "jumpLink": "https://note.youdao.com/web/#/file/recent/markdown/WEBec77ceb49c456b2d9046ea7505a10b12/",
+  "title": "更新日志",
+  "updateMessage": "1.修复播放页闪退问题 \n2.增加播放失败自动换线功能\n3.修复部分线路播放进度不保存问题\4.webdav备份还原优化\n5.视频下载优化\n6.m3u直播线路优化
+  \n以及多项bug修复，具体可点击查看流量卡按钮查看版本更新日志，及时下载"
 }
